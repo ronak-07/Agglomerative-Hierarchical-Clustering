@@ -11,7 +11,7 @@ A phylogenetic tree or evolutionary tree is a branching diagram or "tree" showin
 Dataset
 -----------------
 The original dataset consists of Amino Acid Sequence of Human Genes.
-- Link to the dataset: ![Click here](http://genome.crg.es/datasets/ggalhsapgenes2005/hg16.311.putative.aa.fa)
+- Link to the dataset: http://genome.crg.es/datasets/ggalhsapgenes2005/hg16.311.putative.aa.fa
 
 Sample Strings:
 >chr10_1000
